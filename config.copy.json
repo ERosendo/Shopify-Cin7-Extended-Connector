@@ -1,0 +1,18 @@
+{
+  "mysql":{
+        "host":"localhost",
+        "user":"root",
+        "password":"",
+        "db":""
+    },
+    "shopify":{
+        "base_url":"https://domain_name.myshopify.com",
+        "username":"root",
+        "password":""
+    },
+    "cin7":{
+        "base_url":"https://api.cin7.com/",
+        "username":"root",
+        "password":""
+    }
+}
